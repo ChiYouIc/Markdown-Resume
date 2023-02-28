@@ -128,14 +128,15 @@
 - 数量使用 HTML、CSS、JavaScript 前端技术；
 - 熟练使用 Vue 和 Vue3 框架；
 - 熟练使用 Element UI 和 Ant Design Vue 桌面端组件库；
-- 了解 Golang 的基本语法和使用；
-- 了解 Nacos 和 Eureka 做注册中心、服务监控；
+- 了解常用的设计模式，并掌握其中部分设计模式，例如单例模式、工厂模式、责任链模式、模版方法模式、代理模式、适配器模式；
+- 了解 SpringCloud 微服务架构以及其各个组件，例如：Eureka、Ribbon、Feign、Hystrix、Zuul；能做到独立搭建一个服务；
+- 了解 Nacos，能做到整合 SpringCloud 和 SpringBoot，做注册中心、服务监控以及配置中心；
 - 了解 Redis 缓存数据的基本使用；
 - 了解 RabbitMQ 消息中间的基本使用；
 - 了解 Electron 桌面应用程序框架使用；
 - 了解 Docker 虚拟机的基本使用；
 - 了解 Nginx 的基本使用；
-- 了解常用的设计模式，例如单例模式、工厂模式、责任链模式、模版方法模式、代理模式、适配器模式；
+- 了解 Golang 的基本语法和使用；
 
 
 
